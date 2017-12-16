@@ -1,3 +1,6 @@
+slides:
+https://docs.google.com/presentation/d/1Et3e3AmfC7yAFngRb5C1ULM5KR3eC5pbDVkS4APS9F0/edit#slide=id.p
+
 Motivation
 
 An NDN node implements in-network caching through a Content Store (CS), which is widely studied in the literature. NFD, the most popular NDN forwarder implementation, offers only a very limited facility to observe the CS runtime behavior (just plain logging).
